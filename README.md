@@ -1,4 +1,4 @@
-## Installation Guide
+## Installation guide
 ```
 bash -c "$(curl -L https://raw.githubusercontent.com/YoungDeveloper2025/vless-tcp-http/master/install.sh)"
 ``` 
