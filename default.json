@@ -1,0 +1,7 @@
+{
+    "name": "vless, tcp, http",
+    "email":"sajjaddg",
+    "port": 8080,
+    "sni": "play.google.com",
+    "path": "%2F"
+}
