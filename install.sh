@@ -14,10 +14,10 @@ email=$(jq -r '.email' config.json)
 port=$(jq -r '.port' config.json)
 
 # Fake HTTP host
-fakeHost="www.divar.ir"
+fakeHost="myket.ir"
 
 # Install Xray
-bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install --version v1.8.23
+bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install
 
 # Get base Xray config
 json=$(curl -s https://raw.githubusercontent.com/YoungDeveloper2025/vless-tcp-http/master/config.json)
