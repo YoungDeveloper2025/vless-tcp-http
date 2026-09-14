@@ -22,7 +22,7 @@ echo "Error: invalid port in default.json"
 exit 1
 fi
 # Fake HTTP host
-fakeHost="amp-api-edge.apps.apple.com"
+fakeHost="play-apps-features.googleusercontent.com"
 # Install latest stable Xray
 bash -c "$(curl -fsSL https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install
 # Get base Xray config
