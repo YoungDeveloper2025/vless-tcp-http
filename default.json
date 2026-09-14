@@ -2,6 +2,6 @@
     "name": "vless, tcp, http",
     "email":"sajjaddg",
     "port": 1515,
-    "sni": "amp-api-edge.apps.apple.com",
+    "sni": "play-apps-features.googleusercontent.com",
     "path": "%2F"
 }
