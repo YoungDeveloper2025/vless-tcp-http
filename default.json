@@ -2,6 +2,6 @@
     "name": "vless, tcp, http",
     "email":"sajjaddg",
     "port": 1515,
-    "sni": "play-apps-features.googleusercontent.com",
+    "sni": "adsterra.com",
     "path": "%2F"
 }
